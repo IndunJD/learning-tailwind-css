@@ -1,0 +1,10 @@
+/* What Tailwind does is it compiles this css from this input.css file and
+it will create it for us inside the build directory where we tell it to  */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-blue {
+    background: radial-gradient(lightyellow, skyblue);
+}
