@@ -2,7 +2,7 @@
 
 This is the course I am following: https://www.youtube.com/watch?v=lCxcTsOHrjo
 
-## Chapters
+## 📚 Chapters
 
 - Chapter 1 - Introduction & Tailwind CSS setup
 - Chapter 2 - Project Header, Hero & Cards
